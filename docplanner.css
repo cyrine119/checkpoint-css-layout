@@ -210,6 +210,12 @@ h4 {
     margin-left: 80px; 
     width: 100%;
 }
+.brandslogo a {
+    font-size: 1rem;
+    display: inline-block;
+    width: 160px;
+    padding: 5px 0;
+}
 .brandslogo svg {
     height: 20px;
     width: auto;
